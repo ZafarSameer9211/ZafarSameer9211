@@ -1,0 +1,28 @@
+body{
+    background-color: blue;
+}
+#h1{
+    font-size: large;
+    background-color: darkmagenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#First_para{
+    font: size 20px;
+    background-color: chartreuse;
+    color: chocolate;
+}
+#Second_para{
+    font-size: medium;
+    background-color: aliceblue;
+    color: aqua;
+}
+#Third_para{
+    font-size: medium;
+    background-color: brown;
+    border: 2px solid gold;
+}
+#Fourth_para{
+    font-size: medium;
+    background-color: chocolate;
+    border: 3px dotted gray;
+}
